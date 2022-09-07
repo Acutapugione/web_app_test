@@ -1,0 +1,7 @@
+Постройте шапку сайта и анимированный баннер (Слайдер) на главную страницу. 
+Вся графика и как должны выглядеть слайды тут: https://www.figma.com/file/NSAkCNuRyLMte6J2lZK0SL/Task?node-id=0%3A1 
+Фонт https://fonts.google.com/specimen/Exo  
+Как будет выглядеть анимация, решайте сами.  
+Можно пользоваться любыми технологиями, любыми библиотеками.  
+В конце сделать .zip и прислать сюда  Открыть аккаунт на https://firebase.google.com/  загрузить сайт на хостинг и прислать ссылку.
+(Используйте бесплатную версию firebase)    Build a site header and an animated banner (Slider) on the main page  All the graphics and how the slides should look here: https://www.figma.com/file/NSAkCNuRyLMte6J2lZK0SL/Task?node-id=0%3A1 Font: https://fonts.google.com/specimen/Exo How the animation will look like, decide for yourself.  You can use any technology and library for your choice. When last is finished - send it here in this chat.  Open an account at https://firebase.google.com/ upload the site to hosting and send a link. (Use free version of firebase)
